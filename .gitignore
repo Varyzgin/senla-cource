@@ -1,5 +1,5 @@
 # Compiled class file
-# *.class
+*.class
 
 
 # BlueJ files
@@ -32,7 +32,7 @@ replay_pid*
 *.~*
 
 # IntelliJ IDEA / JetBrains
-# .idea/
+.idea/
 
 # Build / Output
 out/
@@ -41,7 +41,7 @@ target/
 dist/
 bin/
 gen/
-# classes/
+classes/
 
 # Logs / Temp
 *.log

@@ -1,0 +1,56 @@
+# Compiled class file
+# *.class
+
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+replay_pid*
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+.Icon?
+._*
+.Spotlight-V100
+.Trashes
+*.~*
+
+# IntelliJ IDEA / JetBrains
+# .idea/
+
+# Build / Output
+out/
+build/
+target/
+dist/
+bin/
+gen/
+# classes/
+
+# Logs / Temp
+*.log
+*.tmp
+*.swp
+*.bak
+
+# VSCode
+.vscode/
+# Python virtualenv
+venv/
+.env/

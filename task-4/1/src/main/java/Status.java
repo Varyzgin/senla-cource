@@ -1,5 +1,5 @@
 package main.java;
 
 public enum Status {
-    OPENED, ONGOING, CANCELLED, CLOSED
+    OPENED, CANCELLED, CLOSED, DELETED
 }

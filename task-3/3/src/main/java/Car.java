@@ -1,3 +1,5 @@
+package main.java;
+
 public class Car implements IProduct {
     private IProductPart firstPart;
     private IProductPart secondPart;

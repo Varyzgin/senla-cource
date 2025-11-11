@@ -1,3 +1,5 @@
+package main.java;
+
 public class Pipeline implements IAssemblyLine {
     private ILineStep step_one;
     private ILineStep step_two;

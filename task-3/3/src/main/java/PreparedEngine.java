@@ -1,3 +1,5 @@
+package main.java;
+
 public class PreparedEngine implements ILineStep {
     @Override
     public IProductPart buildProductPart() {

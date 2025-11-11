@@ -1,3 +1,5 @@
+package main.java;
+
 public class PreparedWheels implements ILineStep {
     @Override
     public IProductPart buildProductPart() {
